@@ -18,5 +18,6 @@ washington.csv
 chicago.csv
 
 ### Credits
-I forked this project from udacity
+I forked this project from udacity. 
+I would like to give credit to the website stackoverflow.com for helping me learn new commands. 
 
