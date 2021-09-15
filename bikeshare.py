@@ -10,6 +10,8 @@ months = ['january', 'february', 'march', 'april', 'may', 'june']
 
 days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
 
+testing = ['adding', 'info']
+
 def get_filters(): #User inputs
     """
     Asks user to specify a city, month, and day to analyze.
