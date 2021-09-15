@@ -4,10 +4,11 @@
 2021/09/15
 
 ### Project Title
-Bikeshare
+Bikeshare - a udacity project
 
 ### Description
-Extracts important data multiple datasets to anaylze using pythong 
+Extracts important data multiple datasets to anaylze using python
+Did this with three datasets 
 
 ### Files used
 Python.py
