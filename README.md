@@ -9,7 +9,8 @@ Bikeshare - a udacity project
 
 ### Description
 Extracts important data multiple datasets to anaylze using python
-Did this with three datasets 
+Did this with three datasets
+Used the data to hopefully improve profits made by bikeshare
 
 ### Files used
 Python.py
